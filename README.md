@@ -1,4 +1,4 @@
-# Python-boto3-practice
+# AWS-Python-Boto3-Practice
 
 Learning Python Boto3 
 
